@@ -86,7 +86,7 @@
     "clarify": "^2.0.0",
     "dotenv": "17.2.3",
     "ejson": "^2.2.0",
-    "engine.io": "^6.6.4",
+    "engine.io": "^6.6.5",
     "engine.io-client": "^5.2.0",
     "express": "4.22.1",
     "express-prom-bundle": "^5.1.5",
